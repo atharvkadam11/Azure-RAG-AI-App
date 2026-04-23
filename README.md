@@ -115,11 +115,3 @@ Domain → Custom domain (www + api)
 👨‍💻 About
 
 Built as part of my transition from DevOps/Cloud Engineering → AI Engineering, focusing on building real-world AI systems.
-
-⭐ Support
-
-If you found this helpful:
-
-⭐ Star the repo
-🔗 Connect with me on LinkedIn
-🚀 Share feedback!
