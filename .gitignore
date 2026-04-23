@@ -1,0 +1,23 @@
+# ENV
+.env
+*.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Logs
+*.log
+
+# Temp files
+temp_*.pdf
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
